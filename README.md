@@ -1,6 +1,3 @@
-# Latest hledger binary in Docker container
-Latest hledger binary available from Arch Linux community repo.
-
 ## Usage instructions
 Run the webserver with
 ```
